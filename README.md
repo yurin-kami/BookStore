@@ -34,7 +34,7 @@ BookStore 是一个基于 FastAPI 和 SQLAlchemy 开发的在线书籍管理系�
 1. **克隆仓库**
 
 ```bash
-git clone https://github.com/yourusername/BookStore.git
+git clone [ttps://github.com/yurin-kami/BookStore.git]
 cd BookStore
 ```
 
